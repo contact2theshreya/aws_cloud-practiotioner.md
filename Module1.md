@@ -26,6 +26,11 @@ Your selection of "Capacity availability" is correct because, in the cloud, capa
 
  <img width="665" height="331" alt="image" src="https://github.com/user-attachments/assets/e6a4e6e9-b536-4806-b209-d993d93a7edd" />
 
+  AWS Acceptable Use Policy strictly prohibits any activities involving illegal or fraudulent content, including analytics on stolen materials. This reinforces the importance of ethical practices when utilizing AWS services.
+
+Was this content relevant to you?
+
+
 
 
 
