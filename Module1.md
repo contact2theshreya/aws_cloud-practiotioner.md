@@ -22,5 +22,11 @@ Your selection of "Capacity availability" is correct because, in the cloud, capa
 
  IAM is global service-across all region
 
+ <img width="692" height="340" alt="image" src="https://github.com/user-attachments/assets/3d2e9e08-6232-40b3-ad3b-4aa906ccb438" />
+
+ <img width="665" height="331" alt="image" src="https://github.com/user-attachments/assets/e6a4e6e9-b536-4806-b209-d993d93a7edd" />
+
+
+
 
 
