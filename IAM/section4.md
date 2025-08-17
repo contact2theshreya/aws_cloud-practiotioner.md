@@ -8,4 +8,9 @@ To give permission to user, create a group with permission and add user to that 
 
 <img width="536" height="271" alt="image" src="https://github.com/user-attachments/assets/fa3161bd-4039-4293-a86c-7e49fffcdb8e" />
 
+Now login with created IAM user
+
+<img width="594" height="311" alt="image" src="https://github.com/user-attachments/assets/286c0f5b-d5a3-4edc-a36f-c18ba97a058f" />
+
+
 
