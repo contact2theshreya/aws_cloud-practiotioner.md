@@ -12,5 +12,5 @@ Now login with created IAM user
 
 <img width="594" height="311" alt="image" src="https://github.com/user-attachments/assets/286c0f5b-d5a3-4edc-a36f-c18ba97a058f" />
 
-
+Install aws cli on windows with msi installer and check by aws --version
 
