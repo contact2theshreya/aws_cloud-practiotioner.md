@@ -57,3 +57,12 @@ Don't panic. Use EC2 Instance Connect from the next lecture. Make sure you start
 
 This is probably because you have stopped your EC2 instance and then started it again today. When you do so, the public IP of your EC2 instance will change. Therefore, in your command, or Putty configuration, please make sure to edit and save the new public IP.
 
+EC2 instance connect used browser based SSh session to connect to ec2 instance,its going to upload temporary SSH key  and on clicking connect , in new tab CLI will be iopen
+
+<img width="563" height="290" alt="image" src="https://github.com/user-attachments/assets/55089bfd-8131-491f-bc6f-81769e5c500c" />
+
+Spot Instances allow you to bid on unused EC2 capacity, providing significant cost savings; however, they can be terminated by AWS with little notice, making them unsuitable for critical jobs or databases. This aligns with the learning objective by highlighting the trade-off between cost and reliability within EC2 purchasing options.
+
+you can reserve ec2 instance for 1 year
+
+<img width="593" height="238" alt="image" src="https://github.com/user-attachments/assets/5fa74b40-71b1-48c9-93af-5171962b7d58" />
